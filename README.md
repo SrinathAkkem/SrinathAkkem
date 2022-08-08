@@ -8,7 +8,7 @@
 - 🖥️  See my portfolio at [MyPortfolio](http://srinathakkem.web.app/#/home)
 - ✉️  You can contact me at [srinathakkem@gmail.com](mailto:srinathakkem@gmail.com)
 - 🧠  I'm learning MERN Stack.
-- 🤝  I'm open to collaborating on Full Stack Development Projects.
+- 🤝  I'm open to collaborating on Full Stack Development Projects.<br />
   <a href="https://www.twitter.com/srinath_akkem" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/srinath_akkem?logo=twitter&style=for-the-badge&color=0891b2&labelColor=ffffff"/></a>
     <a href="https://www.github.com/SrinathAkkem" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/SrinathAkkem?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
 
