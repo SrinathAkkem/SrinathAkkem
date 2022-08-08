@@ -53,11 +53,3 @@
 <a href="http://www.github.com/SrinathAkkem"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SrinathAkkem&stroke=000000&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="https://github.com/SrinathAkkem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrinathAkkem&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/SrinathAkkem/Scheduling_System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrinathAkkem&repo=Scheduling_System&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/SrinathAkkem/AgroBot" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrinathAkkem&repo=AgroBot&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/SrinathAkkem/HMS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SrinathAkkem&repo=HMS&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
